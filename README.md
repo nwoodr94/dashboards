@@ -1,7 +1,5 @@
 # dashboards
 
-[Home](https://nwoodr94.github.io/portfolio-website/)
-
 Dashboards allow the user to alter and visualize data in real time. 
 
 ### [Temperature Converter](https://nbviewer.jupyter.org/github/nwoodr94/dashboards/blob/master/temperature-dashboard.ipynb)
